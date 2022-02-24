@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+}
+
+.row .col h4{
+    color: #4DB7FE;
+}
+
+.row .col .row {
+    width: 250px;
+}
